@@ -5,24 +5,24 @@ This project analyzes sales trends, product performance, and marketing impact to
 ## Project Objective
 The Elite Stock Online Store aims to analyze sales data from 2020 to 2024 to gain insights into sales performance, evaluate the effectiveness of marketing strategies, and identify opportunities for growth in 2025 and beyond.
 
-Dataset Used
-A comprehensive dataset containing sales transactions, product categories, payment methods, order statuses, and regional sales performance.
+## Dataset Used  
+- A comprehensive dataset containing sales transactions, product categories, payment methods, order statuses, and regional sales performance.
 
-## Key Questions (KPIs)
-This analysis focuses on answering the following key performance indicators (KPIs):
-•	How have sales trends evolved over time?
-•	Which product categories are the most profitable?
-•	Which product has the highest sales volume?
-•	Which product yields the highest profit margins?
-•	What are the most popular payment methods? Should any be discontinued?
-•	What are the top 12 countries with the highest sales?
-•	Which U.S. states generate the most revenue?
-•	What is the highest and lowest sales day of the week?
-•	What were the different order statuses in 2022?
-•	Which are the top 10 states with the highest sales volume?
-•	What is the highest-selling product category?
 
-•	View Dashboard <a href="https://github.com/noemile8240/EliteStore_Analysis/blob/main/dashboard.png">View Dashboard</a>
+## Key Questions (KPIs)  
+This analysis focuses on answering the following key performance indicators (KPIs):  
+- How have sales trends evolved over time?  
+- Which product categories are the most profitable?  
+- Which product has the highest sales volume?  
+- Which product yields the highest profit margins?  
+- What are the most popular payment methods? Should any be discontinued?  
+- What are the top 12 countries with the highest sales?  
+- Which U.S. states generate the most revenue?  
+- What is the highest and lowest sales day of the week?  
+- Which are the top 10 states with the highest sales volume?  
+- What is the highest-selling product category?
+ 
+-	View Dashboard <a href="https://github.com/noemile8240/EliteStore_Analysis/blob/main/dashboard.png">View Dashboard</a>
 •	Dashboard Interaction View Dashboard
 ![image](https://github.com/user-attachments/assets/d79e4a98-4e72-458c-8b76-a046886599c8)
 
