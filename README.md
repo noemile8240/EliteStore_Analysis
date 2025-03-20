@@ -22,8 +22,7 @@ This analysis focuses on answering the following key performance indicators (KPI
 - Which are the top 10 states with the highest sales volume?  
 - What is the highest-selling product category?
  
--	View Dashboard <a href="https://github.com/noemile8240/EliteStore_Analysis/blob/main/dashboard.png">View Dashboard</a>
-•	Dashboard Interaction View Dashboard
+## View Dashboard 
 ![image](https://github.com/user-attachments/assets/d79e4a98-4e72-458c-8b76-a046886599c8)
 
 
