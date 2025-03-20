@@ -1,7 +1,7 @@
 # EliteStore_Analysis
 This project analyzes sales trends, product performance, and marketing impact to optimize 2025 sales. Key insights include top-selling products, profitable categories, and regional trends, visualized through data cleaning, pivot tables, and dashboard
 
-Elite Stock Online Store - Sales Analysis (2020-2024)
+# Elite Stock Online Store - Sales Analysis (2020-2024)
 Project Objective
 The Elite Stock Online Store aims to analyze sales data from 2020 to 2024 to gain insights into sales performance, evaluate the effectiveness of marketing strategies, and identify opportunities for growth in 2025 and beyond.
 
