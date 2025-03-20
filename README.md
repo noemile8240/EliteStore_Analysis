@@ -25,9 +25,7 @@ This analysis focuses on answering the following key performance indicators (KPI
 ## View Dashboard 
 ![image](https://github.com/user-attachments/assets/d79e4a98-4e72-458c-8b76-a046886599c8)
 
-## View Live dashboard<a href="[[https://github.com/noemile8240/EliteStoreAnalysis>]
-
-
+## <a href="https://github.com/noemile8240/EliteStoreAnalysis>Live Dashboard</a>
 ## Data Processing & Analysis Steps
 1.	Data Cleaning & Preprocessing
 o	Identified and handled missing values and anomalies.
