@@ -7,6 +7,7 @@ The Elite Stock Online Store aims to analyze sales data from 2020 to 2024 to gai
 
 ## Dataset Used  
 - A comprehensive dataset containing sales transactions, product categories, payment methods, order statuses, and regional sales performance.
+- ## <a href="https://noemile8240.github.io/EliteStore-Dashboard/">View Dataset Here</a>
 
 
 ## Key Questions (KPIs)  
